@@ -48,3 +48,6 @@ export interface FeatureCard extends Card {
   bonus_type?: string
   bonus_amount?: number
 }
+
+export interface StatusCard extends Card {
+}
